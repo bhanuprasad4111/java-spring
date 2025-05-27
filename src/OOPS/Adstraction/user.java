@@ -1,4 +1,4 @@
-package Adstraction;
+package OOPS.Adstraction;
 
 public interface user {
     public static final int a=10;

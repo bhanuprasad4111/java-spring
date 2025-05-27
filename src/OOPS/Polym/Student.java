@@ -1,4 +1,4 @@
-package Polym;
+package OOPS.Polym;
 
 public class Student {
     int bhanu (int a){
