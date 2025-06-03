@@ -10,6 +10,9 @@ public class Student {
 
     public static void main(String[] args) {
         Student s=new Student();
+        int a=10,b=10;
+        String bha="bhanu",ba="bhanu";
+        System.out.println(a+" "+b);
         System.out.println(s.bhanu(10,20));
     }
 }
